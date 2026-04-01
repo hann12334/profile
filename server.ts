@@ -60,7 +60,7 @@ if (profileCount.count === 0) {
     "Alexsander Handaka Wijaya",
     "Fullstack Developer & Game Enthusiast",
     "A passionate developer who treats every project as a quest. Specializing in building immersive web experiences with modern technologies.",
-    "https://storage.googleapis.com/static-content-ais/user_uploads/67eb9481-9988-444e-a34f-94627d923055/image_0.png", 
+    "/han.jpg", 
     25,
     100,
     85
